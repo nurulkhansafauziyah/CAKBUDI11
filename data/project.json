@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "nurulkhansafauziyah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274477870?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "nurulkhansafauziyah",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-04-08T10:19:15.099Z",
-    "updated_at": "2026-04-08T10:19:15.099Z"
-  }
+    "updated_at": "2026-04-08T10:19:15.099Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "5b302ee4-c676-49e2-906e-da7200c77e88": {
+      "content": [],
+      "created_at": "2026-04-08T10:19:15.121Z",
+      "created_by": "nurulkhansafauziyah",
+      "title": "CAKBUDI1",
+      "updated_at": "2026-04-08T10:19:15.121Z",
+      "updated_by": "nurulkhansafauziyah",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "5b302ee4-c676-49e2-906e-da7200c77e88"
+  ]
 }
